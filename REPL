@@ -1,0 +1,28 @@
+>node
+>a=10
+>a
+>let x={name:'tkk'}
+>x.name
+>let b=20
+>console.log(b)
+>let name='Jhon'
+>console.log(name)
+>name
+
+//multi line commands
+>{press-enter(PE)
+... console.log('hiiii')
+... console.log('hello')
+... }
+
+> for(i=0;i<2;i++){(PE)
+... console.log(i)
+... }
+
+>.editor
+
+//view available functions, options
+>A  PDT(press double tab)
+>Ar PDT
+>Ar PE
+>PDT to view all list
